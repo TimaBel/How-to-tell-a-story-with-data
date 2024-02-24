@@ -1,3 +1,6 @@
+`Статус проекта: завершен`   
+`Project status: completed`
+
 # How-to-tell-a-story-with-data
 Как рассказать историю с помощью данных
 
